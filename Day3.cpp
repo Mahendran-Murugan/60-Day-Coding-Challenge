@@ -5,6 +5,7 @@ Type - EASY
 
 Given an array of integers nums,Implement a function to find the maximum product of two integers in an array.
 
+
 Asked in Google, Meta, Adobe, and Amazone
 */
 
